@@ -1,0 +1,2 @@
+import './polyfills.server.mjs';
+import{a as r,b as i,c as n,d as p,e as m,l as a,n as s,o as f,r as c,x as d}from"./chunk-2LCTFECS.mjs";var l=(()=>{let o=class o{constructor(){this.title="my-angular-website"}};o.\u0275fac=function(e){return new(e||o)},o.\u0275cmp=r({type:o,selectors:[["app-root"]],standalone:!0,features:[m],decls:2,vars:0,template:function(e,y){e&1&&(i(0,"h1"),p(1,"This domain owned by Nirali Sahoo"),n())}});let t=o;return t})();var u=[];var g={providers:[d(u),f()]};var x={providers:[c()]},v=a(g,x);var h=()=>s(l,v),k=h;export{k as a};
